@@ -1,0 +1,5 @@
+/Users/davidbarnes/projects/NestedIfs/NestedIfs/bin/Debug/NestedIfs.exe
+/Users/davidbarnes/projects/NestedIfs/NestedIfs/bin/Debug/NestedIfs.pdb
+/Users/davidbarnes/projects/NestedIfs/NestedIfs/obj/Debug/NestedIfs.csprojAssemblyReference.cache
+/Users/davidbarnes/projects/NestedIfs/NestedIfs/obj/Debug/NestedIfs.exe
+/Users/davidbarnes/projects/NestedIfs/NestedIfs/obj/Debug/NestedIfs.pdb

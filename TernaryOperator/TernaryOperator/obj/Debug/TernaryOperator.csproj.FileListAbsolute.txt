@@ -1,0 +1,5 @@
+/Users/davidbarnes/projects/TernaryOperator/TernaryOperator/bin/Debug/TernaryOperator.exe
+/Users/davidbarnes/projects/TernaryOperator/TernaryOperator/bin/Debug/TernaryOperator.pdb
+/Users/davidbarnes/projects/TernaryOperator/TernaryOperator/obj/Debug/TernaryOperator.csprojAssemblyReference.cache
+/Users/davidbarnes/projects/TernaryOperator/TernaryOperator/obj/Debug/TernaryOperator.exe
+/Users/davidbarnes/projects/TernaryOperator/TernaryOperator/obj/Debug/TernaryOperator.pdb
