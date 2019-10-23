@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ForLoops", "ForLoops\ForLoops.csproj", "{7AEF0FC5-CAEB-429E-9FB9-B09A2311DE5B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7AEF0FC5-CAEB-429E-9FB9-B09A2311DE5B}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{7AEF0FC5-CAEB-429E-9FB9-B09A2311DE5B}.Debug|anycpu.Build.0 = Debug|anycpu
+		{7AEF0FC5-CAEB-429E-9FB9-B09A2311DE5B}.Release|anycpu.ActiveCfg = Release|anycpu
+		{7AEF0FC5-CAEB-429E-9FB9-B09A2311DE5B}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+EndGlobal

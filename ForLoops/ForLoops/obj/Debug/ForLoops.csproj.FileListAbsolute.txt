@@ -1,0 +1,5 @@
+/Users/davidbarnes/projects/ForLoops/ForLoops/bin/Debug/ForLoops.exe
+/Users/davidbarnes/projects/ForLoops/ForLoops/bin/Debug/ForLoops.pdb
+/Users/davidbarnes/projects/ForLoops/ForLoops/obj/Debug/ForLoops.csprojAssemblyReference.cache
+/Users/davidbarnes/projects/ForLoops/ForLoops/obj/Debug/ForLoops.exe
+/Users/davidbarnes/projects/ForLoops/ForLoops/obj/Debug/ForLoops.pdb
