@@ -1,0 +1,5 @@
+/Users/davidbarnes/projects/DecisionMaking/DecisionMaking/bin/Debug/DecisionMaking.exe
+/Users/davidbarnes/projects/DecisionMaking/DecisionMaking/bin/Debug/DecisionMaking.pdb
+/Users/davidbarnes/projects/DecisionMaking/DecisionMaking/obj/Debug/DecisionMaking.csprojAssemblyReference.cache
+/Users/davidbarnes/projects/DecisionMaking/DecisionMaking/obj/Debug/DecisionMaking.exe
+/Users/davidbarnes/projects/DecisionMaking/DecisionMaking/obj/Debug/DecisionMaking.pdb
