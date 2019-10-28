@@ -3,3 +3,5 @@
 /Users/davidbarnes/c#projects/AverageChallenge/AverageChallenge/obj/Debug/AverageChallenge.csprojAssemblyReference.cache
 /Users/davidbarnes/c#projects/AverageChallenge/AverageChallenge/obj/Debug/AverageChallenge.exe
 /Users/davidbarnes/c#projects/AverageChallenge/AverageChallenge/obj/Debug/AverageChallenge.pdb
+/Users/davidbarnes/csharp-practice/AverageChallenge/AverageChallenge/bin/Debug/AverageChallenge.exe
+/Users/davidbarnes/csharp-practice/AverageChallenge/AverageChallenge/obj/Debug/AverageChallenge.csprojAssemblyReference.cache
