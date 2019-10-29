@@ -27,11 +27,9 @@ namespace _07b__Arrays
 
             string[] friends = { "Mike", "Julian", "Nick", "Katey", "Kelly" };
 
-            int count = 0;
             foreach (string name in friends)
             {
                 Console.WriteLine("Hello, {0}!", name);
-                count++;
             }
         }
     }
