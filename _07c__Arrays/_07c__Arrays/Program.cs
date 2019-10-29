@@ -52,6 +52,8 @@ namespace _07c__Arrays
             Console.WriteLine("New value is - {0}", array2DString[1, 1]);
             Console.WriteLine(dimensions);
 
+            int[,] array2D2 = { { 1, 2 }, { 3, 4 } };
+
 
         }
     }
